@@ -1,0 +1,1051 @@
+{
+    "stations": 
+    [
+        {
+            "name": "BBC World Service",
+            "country": "UK",
+            "province": "",
+            "city": "London",
+            "style": "News",
+            "description": "BBC World Service The BBC’s international radio station.",
+            "logo": "station_bbc_ws.png",
+            "url": [
+                "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-eieuk",
+                "http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-einws"
+            ]
+        },
+        {
+            "name": "BBC Radio 4",
+            "country": "UK",
+            "province": "",
+            "city": "London",
+            "style": "News",
+            "description": "The home of intelligent speech, journalism, comedy and drama. The BBC's talk radio station.",
+            "logo": "station_bbc_radio4.png",
+            "url": [
+                "https://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/dash/nonuk/dash_low/llnws/bbc_radio_fourfm.mpd",
+                "https://as-hls-ww-live.bbcfmt.hs.llnwd.net/pool_904/live/ww/bbc_radio_fourfm/bbc_radio_fourfm.isml/bbc_radio_fourfm-audio%3d48000.norewind.m3u8"
+            ]
+        },
+        {
+            "name": "Monocle 24",
+            "country": "UK",
+            "province": "",
+            "city": "London",
+            "style": "News",
+            "description": "Talk Monocle 24 broadcasts to listeners all around the world. We bring you a clever mix of world news, analysis and more.",
+            "logo": "station_monocle24.png",
+            "url": [
+                "http://radio.monocle.com/live"
+            ]
+        },
+        {
+            "name": "ABC News",
+            "country": "AU",
+            "province": "NSW",
+            "city": "Sydney",
+            "style": "News",
+            "description": "ABC News Radio Know the story. Australia's only continuous news station.",
+            "logo": "station_abc_au.png",
+            "url": [
+                "http://live-radio02.mediahubaustralia.com/PBW/mp3"
+            ]
+        },
+        {
+            "name": "3AW News Talk",
+            "country": "AU",
+            "province": "VIC",
+            "city": "Melbourne",
+            "style": "News",
+            "description": "Melbourne’s favourite news, talk & sport.",
+            "logo": "station_3aw_newstalk.png",
+            "url": [
+                "http://shoutcast.3aw.com.au/3aw/",
+                "http://shout01.stream.hostworks.com.au/3aw_mp3",
+                "http://shout01.stream.hostworks.com.au/3aw",
+                "http://shout01.stream.hostworks.com.au:8000/3aw"
+            ]
+        },
+        {
+            "name": "4BC News Talk",
+            "country": "AU",
+            "province": "QLD",
+            "city": "Brisbane",
+            "style": "News",
+            "description": "4BC 1116 News Talk Brisbane.",
+            "logo": "station_4bc_newstalk.png",
+            "url": [
+                "http://frnshout02.stream.hostworks.com.au:8800/4bc_mp3",
+                "http://shout01.stream.hostworks.com.au/4bc_mp3",
+                "http://shoutcast.4bc.com.au/4bc"
+            ]
+        },
+        {
+            "name": "6PR News Talk",
+            "country": "AU",
+            "province": "WA",
+            "city": "Perth",
+            "style": "News",
+            "description": "6PR 882 The Voice of Perth. Perth's leading news and entertainment station.",
+            "logo": "station_6pr_newstalk.png",
+            "url": [
+                "http://shout01.stream.hostworks.com.au:8000/6pr",
+                "http://shoutcast.6pr.com.au/6pr/;",
+                "http://per6praud-lh.akamaihd.net/i/perthpraud_1@110913/master.m3u8",
+                "http://shout01.stream.hostworks.com.au/6pr_mp3"
+            ]
+        },
+        {
+            "name": "RNZ National",
+            "country": "NZ",
+            "province": "",
+            "city": "Wellington",
+            "style": "News",
+            "description": "New Zealand National service of New Zealand's National Broadcaster.",
+            "logo": "station_rnz.png",
+            "url": [
+                "http://radionz-ice.streamguys.com/national.mp3"
+            ]
+        },
+        {
+            "name": "Newstalk ZB",
+            "country": "NZ",
+            "province": "CAN",
+            "city": "Auckland",
+            "style": "News",
+            "description": "New Zealand's #1 Talk Station.",
+            "logo": "station_newstalk_zb.png",
+            "url": [
+                "http://ais-nzme.streamguys1.com/nz_002_aac",
+                "http://ais-nzme.streamguys1.com/nz_002/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "KGO",
+            "country": "US",
+            "province": "CA",
+            "city": "San Francisco",
+            "style": "News",
+            "description": "Talk News 810 KGO. We're talking about the news.",
+            "logo": "station_kgo.png",
+            "url": [
+                "http://208.80.54.9/KGOAM_SC",
+                "http://208.80.54.9:3690/KGOAM_SC",
+                "http://208.80.54.49/KGOAMAAC_SC",
+                "http://208.80.54.49:3690/KGOAMAAC_SC",
+                "http://208.80.54.70/KGOAM_SC",
+                "http://208.80.54.70:3690/KGOAM_SC",
+                "http://208.80.54.78/KGOAM_SC",
+                "http://208.80.54.78:3690/KGOAM_SC",
+                "http://208.80.54.149/KGOAMAAC_SC",
+                "http://208.80.54.149:3690/KGOAMAAC_SC",
+                "http://69.31.54.135/KGOAMAAC_SC",
+                "http://69.31.54.135:3690/KGOAMAAC_SC",
+                "http://69.31.54.149/KGOAMAAC_SC",
+                "http://69.31.54.149:3690/KGOAMAAC_SC",
+                "http://192.173.28.34/KGOAM_SC",
+                "http://192.173.28.34:3690/KGOAM_SC",
+                "http://192.173.28.42/KGOAMAAC_SC",
+                "http://192.173.28.42:3690/KGOAMAAC_SC",
+                "http://192.173.28.43/KGOAMAAC_SC",
+                "http://192.173.28.43:3690/KGOAMAAC_SC",
+                "http://192.173.28.48/KGOAM_SC",
+                "http://192.173.28.48:3690/KGOAM_SC",
+                "http://192.173.28.60/KGOAM_SC",
+                "http://192.173.28.60:3690/KGOAM_SC"
+            ]
+        },
+        {
+            "name": "KSFO",
+            "country": "US",
+            "province": "CA",
+            "city": "San Francisco",
+            "style": "News",
+            "description": "Talk Government. The News and Views You Won't Hear Anywhere Else.",
+            "logo": "station_ksfo.png",
+            "url": [
+                "http://192.173.28.64:3690/KSFOAM_SC",
+                "http://208.80.54.88:3690/KSFOAM_SC",
+                "http://208.80.54.153/KSFOAM_SC",
+                "http://208.80.54.154/KSFOAM_SC",
+                "http://192.173.28.68:3690/KSFOAM_SC",
+                "http://208.80.54.33:3690/KSFOAM_SC",
+                "http://192.173.28.64/KSFOAM_SC",
+                "http://208.80.54.88/KSFOAM_SC",
+                "http://208.80.54.80:3690/KSFOAM_SC",
+                "http://69.31.54.141:3690/KSFOAM_SC",
+                "http://192.173.28.68/KSFOAM_SC",
+                "http://208.80.54.33/KSFOAM_SC",
+                "http://208.80.54.153:3690/KSFOAM_SC",
+                "http://208.80.54.154:3690/KSFOAM_SC",
+                "https://77.67.109.163/KSFOAM_SC",
+                "http://208.80.54.80/KSFOAM_SC",
+                "http://69.31.54.141/KSFOAM_SC",
+                "http://192.173.28.43/KSFOAMAAC_SC",
+                "http://208.80.54.49/KSFOAMAAC_SC",
+                "http://69.31.54.135:3690/KSFOAMAAC_SC",
+                "http://69.31.54.135/KSFOAMAAC_SC",
+                "http://192.173.28.43:3690/KSFOAMAAC_SC",
+                "http://208.80.54.49:3690/KSFOAMAAC_SC",
+                "https://192.173.28.43/KSFOAMAAC_SC",
+                "https://208.80.54.49/KSFOAMAAC_SC",
+                "http://d.liveatc.net/ksfo_app2",
+                "http://d.liveatc.net/ksfo_gnd",
+                "http://d.liveatc.net/ksfo_twr"
+            ]
+        },
+        {
+            "name": "KKSF",
+            "country": "US",
+            "province": "CA",
+            "city": "Oakland",
+            "style": "News",
+            "description": "Real Talk 910. Think Forward.",
+            "logo": "station_kksf.png",
+            "url": [
+                "http://c10icy.prod.playlists.ihrhls.com/297_icy"
+            ]
+        },
+        {
+            "name": "KABC",
+            "country": "US",
+            "province": "CA",
+            "city": "Los Angeles",
+            "style": "News",
+            "description": "Los Angeles' source for ABC News, local news, traffic.",
+            "logo": "station_kabc.png",
+            "url": [
+                "http://208.80.54.9/KABCAM_SC",
+                "http://208.80.54.9:3690/KABCAM_SC",
+                "http://208.80.54.70/KABCAM_SC",
+                "http://208.80.54.70:3690/KABCAM_SC",
+                "http://208.80.54.78/KABCAMAAC_SC",
+                "http://208.80.54.78:3690/KABCAMAAC_SC",
+                "http://192.173.28.34/KABCAMAAC_SC",
+                "http://192.173.28.34:3690/KABCAMAAC_SC",
+                "http://192.173.28.48/KABCAMAAC_SC",
+                "http://192.173.28.48:3690/KABCAMAAC_SC",
+                "http://192.173.28.60/KABCAM_SC",
+                "http://192.173.28.60:3690/KABCAM_SC"
+            ]
+        },
+        {
+            "name": "KFI",
+            "country": "US",
+            "province": "CA",
+            "city": "Los Angeles",
+            "style": "News",
+            "description": "Talk 640 LA's top-rated talk station. News (local & national) on the hour and half hour.",
+            "logo": "station_kfi.png",
+            "url": [
+                "http://c8icy.prod.playlists.ihrhls.com/177_icy",
+                "http://c8icyelb.prod.playlists.ihrhls.com/177_icy"
+            ]
+        },
+        {
+            "name": "KTLA",
+            "country": "US",
+            "province": "CA",
+            "city": "Los Angeles",
+            "style": "News",
+            "description": "#1 in Southern California Audio feed of KTLA television news, Channel 5 in Los Angeles.",
+            "logo": "station_ktla.png",
+            "url": [
+                "http://c11icy.prod.playlists.ihrhls.com/6927_icy"
+            ]
+        },
+        {
+            "name": "KRLA",
+            "country": "US",
+            "province": "CA",
+            "city": "Glendale",
+            "style": "News",
+            "description": "AM 870 The Answer Intelligent. Conservative Talk Radio. Where Your Opinion Counts.",
+            "logo": "station_krla.png",
+            "url": [
+                "http://208.80.54.31:3690/KRLAAMAAC_SC",
+                "https://77.67.109.164/KRLAAMAAC_SC",
+                "http://192.173.28.226:3690/KRLAAMAAC_SC",
+                "http://208.80.54.31/KRLAAMAAC_SC",
+                "http://192.173.28.50/KRLAAM_SC",
+                "http://69.31.54.140/KRLAAM_SC",
+                "http://208.80.54.87:3690/KRLAAM_SC",
+                "http://192.173.28.50:3690/KRLAAM_SC",
+                "http://208.80.54.87/KRLAAM_SC"
+            ]
+        },
+        {
+            "name": "KITZ",
+            "country": "US",
+            "province": "WA",
+            "city": "Seattle",
+            "style": "News",
+            "description": "Megatalk 1400 the latest news, financial advice and live and local sports.",
+            "logo": "station_kitz.png",
+            "url": [
+                "http://crystalin.surfernetwork.com:8000/KITZ_MP3",
+                "http://crystalout.surfernetwork.com:8001/KITZ_MP3"
+            ]
+        },
+        {
+            "name": "KUOW",
+            "country": "US",
+            "province": "WA",
+            "city": "Seattle",
+            "style": "News",
+            "description": "Seattle's Public News Talk.",
+            "logo": "station_kuow.png",
+            "url": [
+                "http://kuow.streamguys1.com/kuow1-lo.mp3"
+            ]
+        },
+        {
+            "name": "KIRO",
+            "country": "US",
+            "province": "WA",
+            "city": "Tacoma",
+            "style": "News",
+            "description": "Western Washington's new FM choice for breaking news and stimulating talk.",
+            "logo": "station_kiro.png",
+            "url": [
+                "https://208.80.54.154/KIROAM_SC",
+                "https://69.31.54.141/KIROAM_SC",
+                "https://208.80.54.33/KIROAM_SC",
+                "https://192.173.28.41/KIROAMAAC_SC",
+                "https://208.80.54.29/KIROAMAAC_SC",
+                "https://192.173.28.54/KIROAMAAC_SC"
+            ]
+        },
+        {
+            "name": "KEX",
+            "country": "US",
+            "province": "OR",
+            "city": "Portland",
+            "style": "News",
+            "description": "NewsRadio 1190 KEX Portland's 24-Hour News, Talk, Traffic and Weather Station.",
+            "logo": "station_kex.png",
+            "url": [
+                "http://c13icy.prod.playlists.ihrhls.com/1949_icy"
+            ]
+        },
+        {
+            "name": "KHOW",
+            "country": "US",
+            "province": "CO",
+            "city": "Denver",
+            "style": "News",
+            "description": "Talk News 630 Talk Radio. KHOW Denver's Talk Station.",
+            "logo": "station_khow.png",
+            "url": [
+                "http://c10icy.prod.playlists.ihrhls.com/377_icy"
+            ]
+        },
+        {
+            "name": "KSL",
+            "country": "US",
+            "province": "UT",
+            "city": "Salt Lake City",
+            "style": "News",
+            "description": "Talk News 102.7 KSL. Utah News & Talk Station.",
+            "logo": "station_ksl.png",
+            "url": [
+                "http://69.31.54.137:3690/KSLAM_SC",
+                "http://208.80.54.67/KSLAM_SC",
+                "http://208.80.54.57:3690/KSLAM_SC",
+                "http://69.31.54.137/KSLAM_SC",
+                "http://208.80.54.57/KSLAM_SC",
+                "http://208.80.54.67:3690/KSLAM_SC",
+                "https://208.80.54.27/KSLAMAAC_SC",
+                "http://69.31.54.136/KSLAMAAC_SC",
+                "http://208.80.54.46/KSLAMAAC_SC",
+                "http://208.80.54.46:3690/KSLAMAAC_SC",
+                "http://69.31.54.136:3690/KSLAMAAC_SC"
+            ]
+        },
+        {
+            "name": "KWMU",
+            "country": "US",
+            "province": "St. Louis",
+            "city": "MO",
+            "style": "News",
+            "description": "KWMU 90.7 St. Louis Public Radio News that matters.",
+            "logo": "station_kwmu.png",
+            "url": [
+                "http://kwmu1-ice.streamguys1.com/kwmu1-256k.aac",
+                "http://kwmu1-ice.streamguys1.com/kwmu1-128k.aac",
+                "http://kwmu1-ice.streamguys1.com/kwmu1-64k.aac",
+                "http://kwmu1-ice.streamguys1.com/kwmu-itunes.aac"
+            ]
+        },
+        {
+            "name": "KFXR",
+            "country": "US",
+            "province": "TX",
+            "city": "Dallas",
+            "style": "News",
+            "description": "Talk 1190 Dallas-Ft. Worth's News Talk",
+            "logo": "station_kfxr.png",
+            "url": [
+                "http://c4icy.prod.playlists.ihrhls.com/4276_icy"
+            ]
+        },
+        {
+            "name": "KPRC",
+            "country": "US",
+            "province": "TX",
+            "city": "Houston",
+            "style": "News",
+            "description": "Talk News 950 FOX News/talk station",
+            "logo": "station_kprc.png",
+            "url": [
+                "http://c1icy.prod.playlists.ihrhls.com/2277_icy"
+            ]
+        },
+        {
+            "name": "WABC",
+            "country": "US",
+            "province": "NY",
+            "city": "New York",
+            "style": "News",
+            "description": "News Talk Radio WABC. Where New York Comes To Talk.",
+            "logo": "station_wabc.png",
+            "url": [
+                "http://38.140.143.166/WABCAMAAC_SC",
+                "http://38.140.143.166/WABCAM_SC",
+                "http://38.140.143.166:3690/WABCAM_SC",
+                "http://38.140.143.166:3690/WABCAMAAC_SC"
+            ]
+        },
+        {
+            "name": "WBBR",
+            "country": "US",
+            "province": "NY",
+            "city": "New York",
+            "style": "News",
+            "description": "Bloomberg Radio New York, 24/7 coverage of business and economy.",
+            "logo": "station_wbbr.png",
+            "url": [
+                "http://bbr24.sonixcast.com:8080/CSNX-8074",
+                "http://208.92.55.41:3690/WBBRAMAAC_SC",
+                "http://208.80.52.35:3690/WBBRAMAAC_SC",
+                "http://208.80.52.35/WBBRAMAAC_SC",
+                "http://208.92.55.41/WBBRAMAAC_SC",
+                "http://208.92.55.45/WBBRAMAAC_SC",
+                "http://208.80.52.41/WBBRAMAAC_SC",
+                "http://208.80.52.143:3690/WBBRAMAAC_SC",
+                "http://63.243.143.152/WBBRAMAAC_SC",
+                "http://208.80.52.89:3690/WBBRAMAAC_SC",
+                "http://208.80.52.41:3690/WBBRAMAAC_SC",
+                "http://208.92.55.45:3690/WBBRAMAAC_SC",
+                "http://208.80.52.143/WBBRAMAAC_SC",
+                "http://208.80.52.89/WBBRAMAAC_SC",
+                "http://63.243.143.152:3690/WBBRAMAAC_SC",
+                "http://c11icy.prod.playlists.ihrhls.com/6286_icy"
+            ]
+        },
+        {
+            "name": "WNYC",
+            "country": "US",
+            "province": "NY",
+            "city": "New York",
+            "style": "News",
+            "description": "Talk News 93.9 AM 820 WNYC. New York Public Radio.",
+            "logo": "station_wnyc.png",
+            "url": [
+                "http://opera-stream.wqxr.org/wnycfm-tunein.aac",
+                "http://iheart.wnyc.org/wnycfm-tunein.aac",
+                "http://am820.wnyc.org/wnycfm-tunein.aac",
+                "http://njpr.wnyc.org/wnycfm-tunein.aac",
+                "http://fm939.wnyc.org/wnycfm-tunein.aac",
+                "http://am820.wnyc.org/wnycfm-app",
+                "http://njpr.wnyc.org/wnycfm-app",
+                "http://opera-stream.wqxr.org/wnycfm",
+                "http://am820.wnyc.org/wnycfm-tunein",
+                "http://njpr.wnyc.org/wnycfm-tunein",
+                "http://njpr.wnyc.org/wnycfm",
+                "http://iheart.wnyc.org/wnycfm-app",
+                "http://opera-stream.wqxr.org/wnycfm-mobile",
+                "http://fm939.wnyc.org/wnycfm-mobile",
+                "http://iheart.wnyc.org/wnycfm-mobile",
+                "http://opera-stream.wqxr.org/wnycfm-app",
+                "http://fm939.wnyc.org/wnycfm-app",
+                "http://opera-stream.wqxr.org/wnycfm-tunein",
+                "http://iheart.wnyc.org/wnycfm",
+                "http://fm939.wnyc.org/wnycfm-tunein",
+                "http://iheart.wnyc.org/wnycfm-tunein",
+                "http://am820.wnyc.org/wnycfm-mobile",
+                "http://njpr.wnyc.org/wnycfm-mobile",
+                "http://fm939.wnyc.org/wnycfm",
+                "http://opera-stream.wqxr.org/wnycfm-mobile.aac",
+                "http://fm939.wnyc.org/wnycfm.aac",
+                "http://njpr.wnyc.org/wnycfm.aac",
+                "http://njpr.wnyc.org/wnycfm-iheart.aac",
+                "http://opera-stream.wqxr.org/wnycfm-app.aac",
+                "http://njpr.wnyc.org/wnycfm-mobile.aac",
+                "http://fm939.wnyc.org/wnycfm-app.aac",
+                "http://am820.wnyc.org/wnycfm.aac",
+                "http://njpr.wnyc.org/wnycfm-app.aac",
+                "http://iheart.wnyc.org/wnycfm.aac",
+                "http://iheart.wnyc.org/wnycfm-mobile.aac",
+                "http://am820.wnyc.org/wnycfm-app.aac",
+                "http://iheart.wnyc.org/wnycfm-iheart.aac",
+                "http://fm939.wnyc.org/wnycfm-iheart.aac",
+                "http://opera-stream.wqxr.org/wnycfm-iheart.aac",
+                "http://iheart.wnyc.org/wnycfm-app.aac",
+                "http://opera-stream.wqxr.org/wnycfm.aac",
+                "http://fm939.wnyc.org/wnycfm-mobile.aac",
+                "http://am820.wnyc.org/wnycfm-mobile.aac",
+                "http://am820.wnyc.org/wnycfm-iheart.aac"
+            ]
+        },
+        {
+            "name": "WOR",
+            "country": "US",
+            "province": "NY",
+            "city": "New York",
+            "style": "News",
+            "description": "Talk News 104.3 WOR 710. The Voice of New York.",
+            "logo": "station_wor.png",
+            "url": [
+                "http://c5icy.prod.playlists.ihrhls.com/5874_icy"
+            ]
+        },
+        {
+            "name": "WCTC",
+            "country": "US",
+            "province": "NJ",
+            "city": "New Brunswick",
+            "style": "News",
+            "description": "Talkradio 1450 WCTC. The Voice of Central New Jersey.",
+            "logo": "station_wctc.png",
+            "url": [
+                "http://208.80.52.66:3690/WCTCAM_SC",
+                "http://208.92.55.40:3690/WCTCAM_SC",
+                "http://208.80.52.141:3690/WCTCAM_SC",
+                "http://208.80.52.66/WCTCAM_SC",
+                "http://208.92.55.40/WCTCAM_SC",
+                "http://208.80.52.141:3690/WCTCAMAAC_SC",
+                "http://208.80.52.66:3690/WCTCAMAAC_SC",
+                "http://208.80.52.66/WCTCAMAAC_SC",
+                "http://208.80.52.141/WCTCAMAAC_SC",
+                "http://208.92.55.40/WCTCAMAAC_SC",
+                "http://208.92.55.40:3690/WCTCAMAAC_SC"
+            ]
+        },
+        {
+            "name": "WMAL",
+            "country": "US",
+            "province": "",
+            "city": "Washington D.C.",
+            "style": "News",
+            "description": "Where Washington Comes To Talk. Stimulating Talk and Breaking News.",
+            "logo": "station_wmal.png",
+            "url": [
+                "http://208.80.52.59/WMALFMAAC_SC",
+                "http://208.80.52.59:3690/WMALFMAAC_SC",
+                "http://208.92.55.132:3690/WMALFMAAC_SC",
+                "http://63.243.143.151:3690/WMALFMAAC_SC",
+                "http://208.92.54.17:3690/WMALFM_SC",
+                "http://208.92.55.135/WMALFM_SC",
+                "http://208.92.54.17/WMALFM_SC",
+                "http://208.92.55.135:3690/WMALFM_SC",
+                "http://63.243.143.151/WMALFMAAC_SC",
+                "http://208.80.52.145:3690/WMALFMAAC_SC",
+                "http://208.92.55.132/WMALFMAAC_SC",
+                "http://208.80.52.145/WMALFMAAC_SC"
+            ]
+        },
+        {
+            "name": "WBAL",
+            "country": "US",
+            "province": "MD",
+            "city": "Baltimore",
+            "style": "News",
+            "description": "Maryland's leading source for thought-provoking discussions, news, weather and sports.",
+            "logo": "station_wbal.png",
+            "url": [
+                "http://208.80.52.64/WBALAM_SC",
+                "http://38.142.56.142:3690/WBALAM_SC",
+                "http://208.92.52.36:3690/WBALAM_SC",
+                "http://38.142.56.142/WBALAM_SC",
+                "http://208.80.52.64:3690/WBALAM_SC",
+                "http://208.92.52.36/WBALAM_SC",
+                "http://38.142.56.142:3690/WBALAMAAC_SC",
+                "http://208.92.52.36:3690/WBALAMAAC_SC",
+                "http://38.142.56.142/WBALAMAAC_SC",
+                "http://208.80.52.64:3690/WBALAMAAC_SC",
+                "http://208.80.52.64/WBALAMAAC_SC",
+                "http://208.92.52.36/WBALAMAAC_SC"
+            ]
+        },
+        {
+            "name": "WABE",
+            "country": "US",
+            "province": "GA",
+            "city": "Atlanta",
+            "style": "News",
+            "description": "Public News 90.1 WABE Where ATL meets NPR 24/7 News from NPR and BBC World Service.",
+            "logo": "station_wabe.png",
+            "url": [
+                "http://pba-ice.streamguys.org/nopre-classical.mp3",
+                "http://pba-ice.streamguys.org/classical",
+                "http://pba-ice.streamguys.org/classical.aac",
+                "https://pba-ice.streamguys.org/wabe.aac",
+                "http://pba-ice.streamguys.org/wabe",
+                "http://pba-ice.streamguys.org/wabe.mp3",
+                "http://pba-ice.streamguys.org/nopre-wabe.mp3",
+                "http://pba-ice.streamguys.org/news"
+            ]
+        },
+        {
+            "name": "WBZ",
+            "country": "US",
+            "province": "MA",
+            "city": "Boston",
+            "style": "News",
+            "description": "Talk News FM 107.9 1030 WBZ. The newswatch never stops.",
+            "logo": "station_wbz.png",
+            "url": [
+                "http://c14icy.prod.playlists.ihrhls.com/7729_icy",
+                "http://c14.prod.playlists.ihrhls.com/7729/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "WRKO",
+            "country": "US",
+            "province": "MA",
+            "city": "Boston",
+            "style": "News",
+            "description": "WRKO AM680. The Voice of Boston.",
+            "logo": "station_wrko.png",
+            "url": [
+                "http://c14icy.prod.playlists.ihrhls.com/7750_icy"
+            ]
+        },
+        {
+            "name": "WFNC",
+            "country": "US",
+            "province": "NC",
+            "city": "Fayetteville",
+            "style": "News",
+            "description": "News Talk Radio 640 WFNC. Fayetteville's Information Station",
+            "logo": "station_wfnc.png",
+            "url": [
+                "http://208.92.55.133:3690/WFNCAM_SC",
+                "http://208.80.52.113:3690/WFNCAM_SC",
+                "http://208.92.55.133/WFNCAM_SC",
+                "http://208.80.52.113/WFNCAM_SC",
+                "http://208.92.55.133/WFNCAMAAC_SC",
+                "http://208.92.55.133:3690/WFNCAMAAC_SC",
+                "http://208.80.52.113:3690/WFNCAMAAC_SC",
+                "http://208.80.52.113/WFNCAMAAC_SC"
+            ]
+        },
+        {
+            "name": "WGN",
+            "country": "US",
+            "province": "IL",
+            "city": "Chicago",
+            "style": "News",
+            "description": "Chicago’s Very Own WGN Radio. The Voice of Chicago.",
+            "logo": "station_wgn.png",
+            "url": [
+                "http://65.19.131.141/wgnam-wgnamaac-ibc2"
+            ]
+        },
+        {
+            "name": "WTAM",
+            "country": "US",
+            "province": "OH",
+            "city": "Cleveland",
+            "style": "News",
+            "description": "Talk 1100 Newsradio WTAM. Cleveland's Newsradio.",
+            "logo": "station_wtam.png",
+            "url": [
+                "http://c10icy.prod.playlists.ihrhls.com/1749_icy"
+            ]
+        },
+        {
+            "name": "WKSU",
+            "country": "US",
+            "province": "OH",
+            "city": "Kent",
+            "style": "News",
+            "description": "FM 89.1 89.7 90.7 89.3 WKSU News BBC World Service.",
+            "logo": "station_wksu.png",
+            "url": [
+                "http://66.225.205.169/wksu4.mp3.128"
+            ]
+        },
+        {
+            "name": "WGOW",
+            "country": "US",
+            "province": "TN",
+            "city": "Chattanooga",
+            "style": "News",
+            "description": "Talk Radio 102.3. The Chattanooga's Talk Monster.",
+            "logo": "station_wgow.png",
+            "url": [
+                "http://208.92.55.138:3690/WGOWFM_SC",
+                "https://208.92.54.4/WGOWFM_SC",
+                "http://208.92.55.138/WGOWFM_SC",
+                "http://208.80.52.131/WGOWFMAAC_SC",
+                "http://38.142.56.139/WGOWFMAAC_SC",
+                "http://208.80.52.131:3690/WGOWFMAAC_SC",
+                "https://208.80.52.56/WGOWFMAAC_SC",
+                "http://38.142.56.139:3690/WGOWFMAAC_SC"
+            ]
+        },
+        {
+            "name": "WIOD",
+            "country": "US",
+            "province": "FL",
+            "city": "Miami",
+            "style": "News",
+            "description": "Talk News 105.9 610 Miami's News, Traffic and Weather Station 24/7 Talk Radio for South Florida.",
+            "logo": "station_wiod.png",
+            "url": [
+                "http://c7icy.prod.playlists.ihrhls.com/569_icy"
+            ]
+        },
+        {
+            "name": "CKNW",
+            "country": "CA",
+            "province": "BC",
+            "city": "Vancouver",
+            "style": "News",
+            "description": "News Talk 980 CKNW Vancouver.",
+            "logo": "station_cknw.png",
+            "url": [
+                "http://live.leanstream.co/CKNWAM",
+                "http://live.leanstream.co/CKNWAM-MP3"
+            ]
+        },
+        {
+            "name": "CKWX",
+            "country": "CA",
+            "province": "BC",
+            "city": "Vancouver",
+            "style": "News",
+            "description": "News 1130 Vancouver's Breaking News, Traffic and Weather.",
+            "logo": "station_ckwx.png",
+            "url": [
+                "http://rogers-hls.leanstream.co/rogers/van1130.stream/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "CHMJ",
+            "country": "CA",
+            "province": "BC",
+            "city": "Vancouver",
+            "style": "News",
+            "description": "AM730 All Traffic, All The Time. Vancouver's Traffic Station.",
+            "logo": "station_chmj.png",
+            "url": [
+                "http://live.leanstream.co/CHMJAM",
+                "http://live.leanstream.co/CHMJAM-MP3"
+            ]
+        },
+        {
+            "name": "CFTR",
+            "country": "CA",
+            "province": "ON",
+            "city": "Toronto",
+            "style": "News",
+            "description": "680 NEWS All News Radio Toronto. #1 for Breaking News, Traffic and Weather.",
+            "logo": "station_cftr.png",
+            "url": [
+                "http://rogers-hls.leanstream.co/rogers/tor680.stream/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "CFRB",
+            "country": "CA",
+            "province": "ON",
+            "city": "Toronto",
+            "style": "News",
+            "description": "Newstalk 1010 Toronto's breaking news, traffic, and weather. Breaking News and Stimulating Talk.",
+            "logo": "station_cfrb.png",
+            "url": [
+                "http://208.80.52.64/CFRBAMAAC_SC",
+                "http://208.92.55.45/CFRBAM_SC",
+                "http://208.92.55.133:3690/CFRBAM_SC",
+                "http://208.80.52.113/CFRBAM_SC",
+                "http://208.80.52.35:3690/CFRBAM_SC",
+                "http://208.92.55.133/CFRBAM_SC",
+                "http://208.92.55.45:3690/CFRBAM_SC",
+                "http://208.80.52.35/CFRBAM_SC",
+                "http://208.80.52.113:3690/CFRBAM_SC",
+                "http://63.243.143.150:3690/CFRBAMAAC_SC",
+                "http://38.142.56.142:3690/CFRBAMAAC_SC",
+                "http://38.142.56.142/CFRBAMAAC_SC",
+                "http://208.80.52.142/CFRBAMAAC_SC",
+                "http://208.80.52.64:3690/CFRBAMAAC_SC",
+                "http://63.243.143.150/CFRBAMAAC_SC",
+                "http://208.92.52.36/CFRBAMAAC_SC",
+                "http://208.92.52.36:3690/CFRBAMAAC_SC",
+                "http://208.80.52.142:3690/CFRBAMAAC_SC"
+            ]
+        },
+        {
+            "name": "CFRA",
+            "country": "CA",
+            "province": "ON",
+            "city": "Ottawa",
+            "style": "News",
+            "description": "580 CFRA Ottawa's Home for Breaking News.",
+            "logo": "station_cfra.png",
+            "url": [
+                "http://38.142.56.139:3690/CFRAAM_SC",
+                "http://208.80.52.131:3690/CFRAAM_SC",
+                "http://38.142.56.139/CFRAAM_SC",
+                "https://208.80.52.56/CFRAAM_SC",
+                "http://208.80.52.131/CFRAAM_SC",
+                "http://208.80.52.11/CFRAAMAAC_SC",
+                "http://208.92.55.42:3690/CFRAAMAAC_SC",
+                "http://208.92.55.42/CFRAAMAAC_SC",
+                "http://208.80.52.11:3690/CFRAAMAAC_SC"
+            ]
+        },
+        {
+            "name": "CIWW",
+            "country": "CA",
+            "province": "ON",
+            "city": "Ottawa",
+            "style": "News",
+            "description": "News Radio 1310. Ottawa's News.",
+            "logo": "station_ciww.png",
+            "url": [
+                "http://rogers-hls.leanstream.co/rogers/ott1310.stream/playlist.m3u8"
+            ]
+        },
+        {
+            "name": "CJAD",
+            "country": "CA",
+            "province": "QC",
+            "city": "Montreal",
+            "style": "News",
+            "description": "FM 107.3 AM 800 News and views from Quebec's leading CJAD. When Montreal needs to talk.",
+            "logo": "station_cjad.png",
+            "url": [
+                "http://208.92.52.42:3690/CJADAM_SC",
+                "http://208.92.55.138/CJADAM_SC",
+                "http://208.92.52.42/CJADAM_SC",
+                "http://208.92.55.37:3690/CJADAM_SC",
+                "https://208.92.54.4/CJADAM_SC",
+                "http://208.92.55.138:3690/CJADAM_SC",
+                "http://208.92.55.37/CJADAM_SC",
+                "http://208.92.55.132:3690/CJADAMAAC_SC",
+                "http://208.80.52.59/CJADAMAAC_SC",
+                "http://208.92.55.135/CJADAMAAC_SC",
+                "http://208.92.55.135:3690/CJADAMAAC_SC",
+                "http://208.92.54.17:3690/CJADAMAAC_SC",
+                "http://208.92.54.17/CJADAMAAC_SC",
+                "http://208.80.52.59:3690/CJADAMAAC_SC",
+                "http://208.92.55.132/CJADAMAAC_SC"
+            ]
+        },
+        {
+            "name": "CKFR",
+            "country": "CA",
+            "province": "BC",
+            "city": "Kelowna",
+            "style": "News",
+            "description": "AM 1150 News Talk Sports The Okanagan's Information Leader.",
+            "logo": "station_ckfr.png",
+            "url": [
+                "http://208.80.54.245:3690/CKFRAMAAC_SC",
+                "http://192.173.28.36:3690/CKFRAMAAC_SC",
+                "http://192.173.28.222/CKFRAM_SC",
+                "http://69.31.54.132:3690/CKFRAM_SC",
+                "http://208.80.54.47:3690/CKFRAM_SC",
+                "http://69.31.54.132/CKFRAM_SC",
+                "http://192.173.28.222:3690/CKFRAM_SC",
+                "http://208.80.54.47/CKFRAM_SC",
+                "http://192.173.28.36/CKFRAMAAC_SC",
+                "http://208.80.54.241/CKFRAMAAC_SC"
+            ]
+        },
+        {
+            "name": "CHQR",
+            "country": "CA",
+            "province": "AB",
+            "city": "Calgary",
+            "style": "News",
+            "description": "Global News Radio 770 CHQR. Calgary's Breaking News and Conversation Station.",
+            "logo": "station_chqr.png",
+            "url": [
+                "http://live.leanstream.co/CHQRAM",
+                "http://live.leanstream.co/CHQRAM-MP3"
+            ]
+        },
+        {
+            "name": "CHED",
+            "country": "CA",
+            "province": "AB",
+            "city": "Edmonton",
+            "style": "News",
+            "description": "630 CHED Edmonton's breaking news and conversation station. Alberta's Information Superstation.",
+            "logo": "station_ched.png",
+            "url": [
+                "http://live.leanstream.co/CHEDAM",
+                "http://live.leanstream.co/CHEDAM-MP3"
+            ]
+        },
+        {
+            "name": "CJOB",
+            "country": "CA",
+            "province": "MB",
+            "city": "Winnipeg",
+            "style": "News",
+            "description": "Global News Radio 680 CJOB. Winnipeg's News and Information Leader. Manitoba's Information Superstation.",
+            "logo": "station_cjob.png",
+            "url": [
+                "http://live.leanstream.co/CJOBAM",
+                "http://live.leanstream.co/CJOBAM-MP3"
+            ]
+        },
+        {
+            "name": "CKOM",
+            "country": "CA",
+            "province": "SK",
+            "city": "Saskatoon",
+            "style": "News",
+            "description": "News Talk 650 CKOM. Saskatoon's News and Conversation Station.",
+            "logo": "station_ckom.png",
+            "url": [
+                "http://rawlco.leanstream.co/CKOMAM"
+            ]
+        },
+        {
+            "name": "CHML",
+            "country": "CA",
+            "province": "ON",
+            "city": "Hamilton",
+            "style": "News",
+            "description": "Global News Radio 900 CHML. Hamilton's News Talk Leader.",
+            "logo": "station_chml.png",
+            "url": [
+                "http://live.leanstream.co/CHMLAM",
+                "http://live.leanstream.co/CHMLAM-MP3"
+            ]
+        },
+        {
+            "name": "CJNI",
+            "country": "CA",
+            "province": "NS",
+            "city": "Halifax",
+            "style": "News",
+            "description": "News Talk 95.7 CJNI.",
+            "logo": "station_cjni.png",
+            "url": [
+                "http://rogers-hls.leanstream.co:8000/rogers/hal957.stream/48k/playlist.m3u8",
+                "http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/master.m3u8",
+                "http://radio_cjni-lh.akamaihd.net/i/HAL957_1@188408/index_48_a-p.m3u8"
+            ]
+        },
+        {
+            "name": "CBC Radio 1",
+            "country": "CA",
+            "province": "ON",
+            "city": "Toronto",
+            "style": "News",
+            "description": "Variety 99.1 CBC Radio 1 - Ontario/Toronto.",
+            "logo": "station_cbc1_toronto.png",
+            "url": [
+                "http://cbcliveradio-lh.akamaihd.net/i/CBCR1_TOR@118420/master.m3u8"
+            ]
+        },
+        {
+            "name": "CBC Radio 1",
+            "country": "CA",
+            "province": "NS",
+            "city": "Halifax",
+            "style": "News",
+            "description": "CBC Radio One Halifax.",
+            "logo": "station_cbc1_halifax.png",
+            "url": [
+                "http://cbc_r1_hfx.akacast.akamaistream.net/7/981/451661/v1/rc.akacast.akamaistream.net/cbc_r1_hfx"
+                ]
+        },
+        {
+            "name": "CBC Radio 1",
+            "country": "CA",
+            "province": "BC",
+            "city": "Vancouver",
+            "style": "News",
+            "description": "Variety 88.1 CBC Radio One - British Columbia/Vancouver.",
+            "logo": "station_cbc1_vancouver.png",
+            "url": [
+                "http://liveradio.cbc.ca/i/CBCR1_VCR@314572/index_48_a-p.m3u8"
+            ]
+        },
+        {
+            "name": "CBC Radio 1",
+            "country": "CA",
+            "province": "BC",
+            "city": "Kelowna",
+            "style": "News",
+            "description": "CBC Radio One Kelowna.",
+            "logo": "station_cbc1_kelowna.png",
+            "url": [
+                "http://cbcliveradio-lh.akamaihd.net/i/CBCR1_KEL@386538/master.m3u8"
+            ]
+        },
+        {
+            "name": "CCTV-13",
+            "country": "CN",
+            "province": "",
+            "city": "Beijing",
+            "style": "News",
+            "description": "CCTV-13 News",
+            "logo": "station_cctv13.png",
+            "url": [
+                "http://cctv.v.myalicdn.com/live/cctv13_1audio.m3u8?adapt=0&BR=audio"
+            ]
+        },
+        {
+            "name": "CNR Voice of China",
+            "country": "CN",
+            "province": "",
+            "city": "Beijing",
+            "style": "News",
+            "description": "CNR Voice of China",
+            "logo": "station_cnr.png",
+            "url": [
+                "http://ls.qingting.fm/live/386.m3u8",
+                "http://ngcdn001.cnr.cn/live/zgzs/index.m3u8",
+                "http://live.xmcdn.com/live/1065/64.m3u8",
+                "http://ngcdn001.cnr.cn/live/zgzs48/index.m3u8"
+            ]
+        },
+        {
+            "name": "CRI News Radio",
+            "country": "CN",
+            "province": "",
+            "city": "Beijing",
+            "style": "News",
+            "description": "CRI News Radio. The world is next to your ears.",
+            "logo": "station_cri.png",
+            "url": [
+                "http://ls.qingting.fm/live/24035.m3u8",
+                "http://sk.cri.cn/905.m3u8",
+                "http://live.xmcdn.com/live/1040/64.m3u8"
+            ]
+        },
+        {
+            "name": "Jiangsu Traffic",
+            "country": "CN",
+            "province": "JS",
+            "city": "Nanjing",
+            "style": "News",
+            "description": "Jiangsu Commnunication Broadcasting Station.",
+            "logo": "station_jsjtgb.png",
+            "url": [
+                "http://ls.qingting.fm/live/4054.m3u8",
+                "http://lzlive.vojs.cn/4TaHTeL/92/live.m3u8",
+                "http://live.xmcdn.com/live/536/64.m3u8"
+            ]
+        }
+    ]
+}
