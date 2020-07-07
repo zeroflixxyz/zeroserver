@@ -1,1 +1,2 @@
-# zeroserver
+# Zeroserver
+Waste of time !!
